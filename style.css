@@ -1,0 +1,17 @@
+*{
+    margin: 0 auto;
+}
+body {
+    
+}
+section.sec-conteiner {
+    width: 80%;
+    
+}
+.half-widh {
+    width: 50%;
+}
+.conteiner {
+    display: flex;
+    margin: 30px 0px;
+}
